@@ -1,5 +1,7 @@
 ## This is my first website!!  :stuck_out_tongue_closed_eyes:
-MY Portfolio is here~
+MY Portfolio is here~ 
+
+Here is the link to my website : https://chloewaiwai.github.io/
 
 Gonna spend more time in investigate more on web developing. Now, the website maybe contains servals errors...
 
